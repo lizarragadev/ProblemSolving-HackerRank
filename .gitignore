@@ -161,5 +161,8 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
-
+.DS_STORE
+.DS_Store
+.AppleDouble
+.LSOverride
 # End of https://www.toptal.com/developers/gitignore/api/kotlin,gradle,intellij
