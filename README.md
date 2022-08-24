@@ -10,5 +10,3 @@ Kotlin and Java
 
 
 
-
-
