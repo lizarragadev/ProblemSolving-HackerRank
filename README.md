@@ -8,3 +8,4 @@ Kotlin and Java
 
 ### Problem List. 
 
+1. Solve me first
