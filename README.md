@@ -9,5 +9,5 @@ Kotlin and Java
 ### Problem List. 
 
 1. Solve me first
-2. 
+2. Compare the Triplets
 3. 
