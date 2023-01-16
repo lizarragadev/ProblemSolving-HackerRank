@@ -11,4 +11,3 @@ Kotlin and Java
 1. Solve me first
 2. Compare the Triplets
 3. 
-4. 
